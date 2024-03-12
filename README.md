@@ -5,6 +5,7 @@ In the United States alone, residents consume an astounding amount of chocolate,
  However, not all chocolate bars are created equal. This dataset provides valuable insights into the world of chocolate, offering expert ratings of over 1,700 individual chocolate bars.
 
 Contents
+Introduccion of chocolate history/ why chocolate is mostly produced in other countrys than the origin of cacao
 Expert ratings of chocolate bars
 Information on regional origin
 Percentage of cocoa
@@ -14,7 +15,7 @@ Data Sources
 The dataset is sourced from reputable sources and compiled to offer a comprehensive view of chocolate attributes and characteristics.
 
 Purpose
-The purpose of this dataset is to provide researchers, chocolate enthusiasts, and industry professionals with detailed information about chocolate bars. 
+The purpose of this dataset is to provide researchers, curious minds, and industry professionals with detailed information about chocolate bars. 
 By analyzing factors such as regional origin, cocoa percentage, and bean variety, users can gain insights into the factors that contribute to the quality and taste of chocolate.
 
 Potential Applications
